@@ -152,23 +152,21 @@ B.Tech CSE student passionate about **AI/ML, Generative AI, and Full-Stack Devel
 
 ---
 
-## 💻 Codolio Stats
+## 🧩 LeetCode Stats
 
 <p align="center">
-  <a href="https://codolio.com/profile/sanyukt">
-    <img src="https://img.shields.io/badge/CODOLIO-SANYUKT-2563EB?style=for-the-badge&logo=code&logoColor=white" alt="Codolio Profile"/>
+  <a href="https://leetcode.com/u/sanyukt777/">
+    <img
+      src="https://leetcard.jacoblin.cool/sanyukt777?theme=dark&font=Baloo&ext=contest"
+      alt="Sanyukt's LeetCode Statistics"
+      width="80%"
+    />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://codolio.com/profile/sanyukt">
-    <img src="https://img.shields.io/badge/View-Coding%20Statistics-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View Coding Statistics"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://codolio.com/profile/sanyukt">
-    <img src="https://img.shields.io/badge/View-Coding%20Statistics-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View Coding Statistics"/>
+  <a href="https://leetcode.com/u/sanyukt777/">
+    <img src="https://img.shields.io/badge/LeetCode-sanyukt777-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
 </p>
 
