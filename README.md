@@ -168,17 +168,13 @@ B.Tech CSE student passionate about **AI/ML, Generative AI, and Full-Stack Devel
 
 ---
 
-## 🎖️ Certifications & Achievements
+> ## 🏆 Achievements
 
 - 🥇 **XIM AI/ML Hackathon Winner**
 - 🚀 **5+ Hackathon Finalist**
 - 🎨 Design Lead — GeeksforGeeks ITER
 - 🎖️ Corporal — SOA NCC
-
-### 📜 Certifications
-
-Add your verified certifications here as you complete them.
-
+- 🌐 Built the website for SOA NCC, showcasing the National Cadet Corps at SOA University.
 ---
 
 ## 🤝 Connect With Me
@@ -192,6 +188,9 @@ Add your verified certifications here as you complete them.
   </a>
   <a href="https://leetcode.com/u/sanyukt777/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codolio.com/profile/sanyukt">
+  <img src="https://img.shields.io/badge/Codolio-Profile-2563EB?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
