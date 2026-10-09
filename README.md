@@ -155,9 +155,16 @@ B.Tech CSE student passionate about **AI/ML, Generative AI, and Full-Stack Devel
 ---
 
 ## 📈 Contribution Graph
+<p align="center">
+  <a href="https://github.com/sanyukt63">
+    <img src="https://ghchart.rshah.org/2563eb/sanyukt63" alt="Sanyukt's GitHub contribution graph" width="100%"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanyukt63&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution graph" width="100%"/>
+  <a href="https://github.com/sanyukt63">
+    View my GitHub profile and contributions →
+  </a>
 </p>
 
 ---
@@ -178,10 +185,16 @@ B.Tech CSE student passionate about **AI/ML, Generative AI, and Full-Stack Devel
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
+##🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanyukt63&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sanyukt63&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub achievements and trophies" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sanyukt63?tab=repositories">
+    Explore my repositories and achievements →
+  </a>
 </p>
 
 ---
