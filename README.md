@@ -154,21 +154,6 @@ B.Tech CSE student passionate about **AI/ML, Generative AI, and Full-Stack Devel
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <a href="https://github.com/sanyukt63">
-    <img src="https://ghchart.rshah.org/2563eb/sanyukt63" alt="Sanyukt's GitHub contribution graph" width="100%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sanyukt63">
-    View my GitHub profile and contributions →
-  </a>
-</p>
-
----
-
 ## 🧩 LeetCode Stats
 
 <p align="center">
@@ -180,20 +165,6 @@ B.Tech CSE student passionate about **AI/ML, Generative AI, and Full-Stack Devel
 <p align="center">
   <a href="https://leetcode.com/u/sanyukt777/">
     <img src="https://img.shields.io/badge/LeetCode-sanyukt777-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
-  </a>
-</p>
-
----
-
-##🏆 GitHub Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanyukt63&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub achievements and trophies" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sanyukt63?tab=repositories">
-    Explore my repositories and achievements →
   </a>
 </p>
 
