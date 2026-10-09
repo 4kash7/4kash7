@@ -1,5 +1,3 @@
-# 👋 Hey, I'm Sanyukt Kumar Rai
-
 <h3 align="center">B.Tech CSE Student | AI/ML & Full-Stack Developer</h3>
 
 <p align="center">
