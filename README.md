@@ -158,8 +158,8 @@ B.Tech CSE student passionate about **AI/ML, Generative AI, and Full-Stack Devel
   <a href="https://codolio.com/profile/sanyukt/card">
     <img
       src="https://codolio.com/profile/sanyukt/card"
-      alt="Sanyukt's Codolio Stats"
-      width="100%"
+      alt="Sanyukt's Codolio Coding Stats"
+      width="80%"
     />
   </a>
 </p>
